@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local data and production exports
+sales_full.json
+sales_daily_full.json
+inv_raw.json
+inventory.json
+
+# Temporary files
+tmp/

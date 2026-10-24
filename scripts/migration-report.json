@@ -1,0 +1,47 @@
+{
+  "dryRun": false,
+  "timestamp": "2026-10-07T08:39:27.857Z",
+  "sourceCounts": {
+    "inventory": 22,
+    "sales": 318,
+    "sales_daily": 317,
+    "staffMembers": 5,
+    "users": 11
+  },
+  "insertedCounts": {
+    "inventory": 22,
+    "sales": 318,
+    "sales_daily": 317,
+    "staffMembers": 5,
+    "users": 11
+  },
+  "skippedCounts": {
+    "inventory": 0,
+    "sales": 0,
+    "sales_daily": 0,
+    "staffMembers": 0,
+    "users": 0
+  },
+  "conflictCounts": {},
+  "failedCounts": {},
+  "finalMongoCounts": {
+    "inventory": 22,
+    "sales": 318,
+    "sales_daily": 317,
+    "staffMembers": 5,
+    "users": 11
+  },
+  "stats": {
+    "sales": {
+      "earliest": "2025-10-04T00:00:00.000Z",
+      "latest": "2026-10-06T00:00:00.000Z",
+      "orphanCount": 60
+    },
+    "sales_daily": {
+      "earliest": "2025-10-04T00:00:00.000Z",
+      "latest": "2026-10-06T00:00:00.000Z",
+      "orphanCount": 60
+    }
+  },
+  "status": "completed"
+}
